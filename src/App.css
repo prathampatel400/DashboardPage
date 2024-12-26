@@ -1,0 +1,39 @@
+.search-field{
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+p {
+  font-family: "Poppins", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Poppins", serif;
+  font-weight: 800;
+  font-size: 2rem;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Poppins", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+a {
+  font-family: "Poppins", serif;
+  font-weight: 900;
+  font-size: 1rem;
+  font-style: normal;
+}
+
+button {
+  font-family: "Poppins", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
